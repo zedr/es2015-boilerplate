@@ -12,7 +12,7 @@ node_modules:
 
 build: node_modules
 
-tests: $(JASMINE_SCRIPT)
+tests: build $(JASMINE_SCRIPT)
 	$(JASMINE_SCRIPT)
 
 tests-debug: $(JASMINE_SCRIPT) $(INSPECTOR_SCRIPT)

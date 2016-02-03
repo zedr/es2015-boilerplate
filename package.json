@@ -11,7 +11,7 @@
     "node-inspector": "^0.12.5"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make tests"
   },
   "author": "zedr <zedr@zedr.com>",
   "license": "ISC"
