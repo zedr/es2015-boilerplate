@@ -1,0 +1,17 @@
+{
+  "name": "es6-project",
+  "version": "0.0.0",
+  "description": "<INSERT_DESCRIPTION>",
+  "repository": "http://git.example.com",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13",
+    "jasmine": "^2.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zedr <zedr@zedr.com>",
+  "license": "ISC"
+}
